@@ -2,7 +2,6 @@
 
 ## I am a junior frontend developer
 [![Sverxsro4nik GitHub stats](https://github-readme-stats.vercel.app/api?username=sverxsro4nik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sverxsro4nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Sverxsro4nik wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sverxsro4nik)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools
